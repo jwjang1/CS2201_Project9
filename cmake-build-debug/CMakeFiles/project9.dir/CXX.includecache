@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kis/CLionProjects/project9/TrieNode.cpp
+cstddef
+-
+stdexcept
+-
+iostream
+-
+TrieNode.h
+/Users/kis/CLionProjects/project9/TrieNode.h
+
+/Users/kis/CLionProjects/project9/TrieNode.h
+string
+-
+fstream
+-
+iostream
+-
+cstddef
+-
+stdexcept
+-
+
